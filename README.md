@@ -17,13 +17,13 @@ Aquest repositori recull materials, guies i activitats essencials per facilitar 
 * **/guies**
     * Manuals bàsics d'ús de la màquina i d'inici al programari **Design Space**.
     * Guia de referència ràpida de materials i ganivetes.
-* **/activitats**
+* **/activitats** (properament)
     * Propostes d'activitats i tallers per a diferents nivells educatius (Infantil, Primària).
     * Fitxes pas a pas per a la creació d'etiquetes, puzles i *flashcards*.
-* **/projectes**
+* **/projectes** (properament)
     * Arxius de disseny (.SVG, .CRICUT) ja preparats per tallar directament a l'aula.
     * Exemples de decoració i *templates* d'organització.
-* **/recursos**
+* **/recursos** (properament)
     * Enllaços a tutorials de YouTube, proveïdors de materials i fonts gratuïtes.
 
 🚀 **Com començar**
