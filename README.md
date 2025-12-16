@@ -1,8 +1,5 @@
 # Cricut-Maker-4
 Manuals de formació i funcionament de la Cricut Maker 4
-Aquí teniu el text modificat per al document `README` del material de formació docent de la **Cricut Maker 4**, mantenint l'estructura i el to original de repositori de recursos:
-
----
 
 # ✂️ Recursos Pedagògics per a la Cricut Maker 4
 
